@@ -1,0 +1,3 @@
+# SSH Hardening - Linhas modificadas
+PermitRootLogin no
+PasswordAuthentication yes
