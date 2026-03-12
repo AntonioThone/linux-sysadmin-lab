@@ -99,7 +99,7 @@ sudo firewall-cmd --reload
 
 # Verificar
 sudo firewall-cmd --list-all
-✅ Verificação Final
+Verificação Final
 bash
 # Executar suite de testes
 ./tests/test-lab.sh
